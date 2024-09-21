@@ -2,9 +2,9 @@
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
-    // Write your JavaScript here
+    // Change background image
     // Change title to MunchKit
-    // Edited and testing
+    // Design new header
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
