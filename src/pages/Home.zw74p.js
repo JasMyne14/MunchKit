@@ -6,6 +6,7 @@ $w.onReady(function () {
     // Change title to MunchKit
     // Design new header
     // Added product gallery page
+    // Added product view list page
 
     // Click 'Preview' to run your code
 });
