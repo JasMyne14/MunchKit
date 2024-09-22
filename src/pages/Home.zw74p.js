@@ -5,7 +5,7 @@ $w.onReady(function () {
     // Change background image
     // Change title to MunchKit
     // Design new header
-    // To select an element by ID use: $w('#elementID')
+    // Added product gallery page
 
     // Click 'Preview' to run your code
 });
