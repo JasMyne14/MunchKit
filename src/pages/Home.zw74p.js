@@ -7,6 +7,8 @@ $w.onReady(function () {
     // Design new header
     // Added product gallery page
     // Added product view list page
+    // Connected business instagram account to website
+    
 
     // Click 'Preview' to run your code
 });
