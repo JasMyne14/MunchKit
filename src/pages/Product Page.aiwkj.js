@@ -4,6 +4,7 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // Added main products to sell
+    // Added merchandise product to sell
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
