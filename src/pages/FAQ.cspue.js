@@ -3,7 +3,7 @@
 
 $w.onReady(function () {
     // Write your JavaScript here
-    // edited FAQ
+    // Changed font
 
     // To select an element by ID use: $w('#elementID')
 
