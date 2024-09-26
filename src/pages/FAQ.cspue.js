@@ -4,6 +4,7 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // Changed font
+    // Edited and designed FAQ
 
     // To select an element by ID use: $w('#elementID')
 
