@@ -8,7 +8,7 @@ $w.onReady(function () {
     // Added product gallery page
     // Added product view list page
     // Connected business instagram account to website
-    
+    // Changed background image for intro
 
     // Click 'Preview' to run your code
 });
