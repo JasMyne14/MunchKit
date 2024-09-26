@@ -10,6 +10,8 @@ $w.onReady(function () {
     // Connected business instagram account to website
     // Changed background image for intro
     // Added image
+    // Added information about the product
+    // Made button in intro connect to the category page
 
     // Click 'Preview' to run your code
 });
