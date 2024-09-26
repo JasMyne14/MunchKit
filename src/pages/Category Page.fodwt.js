@@ -4,7 +4,7 @@
 $w.onReady(function () {
     // Write your JavaScript here
     // Designed category page 
-    // Described each product
+    // Described all 5 of the product precisely
     // To select an element by ID use: $w('#elementID')
 
     // Click 'Preview' to run your code
