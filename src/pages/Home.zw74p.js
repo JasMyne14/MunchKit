@@ -9,6 +9,7 @@ $w.onReady(function () {
     // Added product view list page
     // Connected business instagram account to website
     // Changed background image for intro
+    // Added image
 
     // Click 'Preview' to run your code
 });
